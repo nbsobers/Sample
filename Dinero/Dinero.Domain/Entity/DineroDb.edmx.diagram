@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3b22b61d12a34ed1a640f836b21f37d8" Name="Diagram1">
+        <EntityTypeShape EntityType="DineroEntity.Company" Width="1.5" PointX="1.5" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DineroEntity.Ledger" Width="1.5" PointX="3" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DineroEntity.Role" Width="1.5" PointX="3.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DineroEntity.SourceEntity" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DineroEntity.TransactionType" Width="1.5" PointX="5.75" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DineroEntity.User" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DineroEntity.UserCompany" Width="1.5" PointX="6" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DineroEntity.UserRole" Width="1.5" PointX="6" PointY="1.875" IsExpanded="true" />
+        <AssociationConnector Association="DineroEntity.FK_SourceEntity_Company" ManuallyRouted="false" />
+        <AssociationConnector Association="DineroEntity.FK_UserCompany_Company" ManuallyRouted="false" />
+        <AssociationConnector Association="DineroEntity.FK_Ledger_SourceEntity" ManuallyRouted="false" />
+        <AssociationConnector Association="DineroEntity.FK_Ledger_User" ManuallyRouted="false" />
+        <AssociationConnector Association="DineroEntity.FK_Ledger_User1" ManuallyRouted="false" />
+        <AssociationConnector Association="DineroEntity.FK_UserRole_Role" ManuallyRouted="false" />
+        <AssociationConnector Association="DineroEntity.FK_UserCompany_User" ManuallyRouted="false" />
+        <AssociationConnector Association="DineroEntity.FK_UserRole_User" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,10 @@
+D:\Sobu\Dev\Own\Dinero\Dinero.Domain\bin\Debug\Dinero.Domain.dll.config
+D:\Sobu\Dev\Own\Dinero\Dinero.Domain\bin\Debug\Dinero.Domain.dll
+D:\Sobu\Dev\Own\Dinero\Dinero.Domain\bin\Debug\Dinero.Domain.pdb
+D:\Sobu\Dev\Own\Dinero\Dinero.Domain\bin\Debug\EntityFramework.dll
+D:\Sobu\Dev\Own\Dinero\Dinero.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sobu\Dev\Own\Dinero\Dinero.Domain\bin\Debug\EntityFramework.xml
+D:\Sobu\Dev\Own\Dinero\Dinero.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sobu\Dev\Own\Dinero\Dinero.Domain\obj\Debug\Dinero.Domain.csprojResolveAssemblyReference.cache
+D:\Sobu\Dev\Own\Dinero\Dinero.Domain\obj\Debug\Dinero.Domain.dll
+D:\Sobu\Dev\Own\Dinero\Dinero.Domain\obj\Debug\Dinero.Domain.pdb
